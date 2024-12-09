@@ -4,6 +4,12 @@ It is a tool that allow to find all differences between 2 csv files and present 
 Initially this tool has been created to compare resource files. Example can be found below. 
 All input and output files is located in directories '/input' and '/output' respectively.
 
+## Warning
+
+This tool works correctly only if rows in both files are sorted alphabetically.
+
+## Example
+
 First file:
 ![img.png](static/img.png)
 
